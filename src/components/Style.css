@@ -1,0 +1,110 @@
+.home{
+    margin-top: 15vmin;
+    font-family: 'Roboto', sans-serif;
+    width: 100%;
+    margin-bottom: 12vmin;
+}
+
+.ctn-1{
+    padding-top:2vmin;
+}
+.content{
+    padding:1% ;
+}
+
+.imageEntertaiment{
+    width:100%;
+    float: right;
+}
+
+.imageHome{
+    max-width: 100%;
+}
+
+.imagePopular{
+    width:100%;
+}
+ 
+.p{
+    font-size: 15px;
+    text-align: justify;
+    margin-right: 5%;
+    height: 12%;
+}
+
+.text{ 
+    overflow: hidden; 
+    text-overflow: ellipsis; 
+    display: -webkit-box; 
+      
+      
+    /* The number of lines to be displayed */ 
+    -webkit-line-clamp: 3;  
+    -webkit-box-orient: vertical; 
+}
+
+.text-inside-grid {
+    position: absolute;
+    left: 5px;
+    top: 5px;
+  }
+.img-inside-grid {
+    position: absolute;
+    float: right;
+    top: 5px;
+  }
+
+.readMore{
+    color:cadetblue
+}
+
+.contentPopular{
+    margin-top: 1%;
+}
+
+.titleContent{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+}
+
+.titleAbout{
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-size: 20px;
+    text-align: center;
+}
+
+.contentStyle{
+   margin-top: 8vmin;
+}
+
+.loginCard{
+    margin-top:2%; 
+}
+
+.login{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.btnLogin{
+    margin-top: 2%;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-bottom: 5%;
+}
+
+.createNew{
+    color: #0388fc;
+}
+
+.about-me{
+    font-size:15px;
+    text-decoration: none;
+}
+
+.contactMe{
+    font-size: 18px;
+}
